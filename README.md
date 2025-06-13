@@ -1,16 +1,17 @@
-## Hi there 👋
+# Yo, I'm fuckyoustan 👋
 
-<!--
-**fuckyoustan/fuckyoustan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> College kid. Android tinkerer. Gamer at heart, coder by accident.
 
-Here are some ideas to get you started:
+## About Me
+Sup! I'm just your regular student who takes Android modding way too seriously (but not really). If I'm not messing with configs or breaking stuff, I’m probably grinding some games—because let’s be real, life without games is like Android without root: boring as hell.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- Can mod Android while rage quitting ranked matches. Multitasking, baby.
+- Bugs? Nah bro, that’s “advanced features.”
+- Social media? Nah, gotta keep the air of mystery.
+
+## Life Motto
+> “Root first, panic later.”
+
+Wanna chat about mods, bugs, or how to totally not brick your device? Hit up my repo.  
+Pull requests, issues, or dropping a star—always welcome (and lowkey expected).
