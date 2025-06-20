@@ -10,8 +10,7 @@ Sup! I'm just your regular student who takes Android modding way too seriously (
 - Bugs? Nah bro, that’s “advanced features.”
 - Social media? Nah, gotta keep the air of mystery.
 
-## Life Motto
-“Root first, panic later.”
+## Support
 
 Wanna chat about mods, bugs, or how to totally not brick your device? Hit up my repo.  
 Pull requests, issues, or dropping a star always welcome (and lowkey expected).
