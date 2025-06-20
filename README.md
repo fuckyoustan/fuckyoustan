@@ -8,9 +8,8 @@ Sup! I'm just your regular student who takes Android modding way too seriously (
 ## Fun Facts
 - Can mod Android while rage quitting ranked matches. Multitasking, baby.
 - Bugs? Nah bro, that’s “advanced features.”
-- Social media? Nah, gotta keep the air of mystery.
 
 ## Support
 
-Wanna chat about mods, bugs, or how to totally not brick your device? Hit up my repo.  
+Wanna chat about mods, bugs, or how to totally not brick your device? Hit up my telegram channel .  
 Pull requests, issues, or dropping a star always welcome (and lowkey expected).
