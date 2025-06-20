@@ -11,5 +11,5 @@ Sup! I'm just your regular student who takes Android modding way too seriously (
 
 ## Support
 
-Wanna chat about mods, bugs, or how to totally not brick your device? Hit up my telegram channel .  
+Wanna chat about mods, bugs, or how to totally not brick your device? Hit up my telegram channel [here](https://t.me/EverythingAboutArchive).  
 Pull requests, issues, or dropping a star always welcome (and lowkey expected).
