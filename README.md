@@ -6,7 +6,7 @@
 - 🌱 But hey, I'm super hyped about coding, even though I'm still basically a noob!
 - 💡 Super into diving deep into new stuff I don't know yet (ambitious much? Maybe!).
 - 💬 Hit me up to chat about anything tech, maybe some Eminem lyrics, or just life stuff.
-- ⚡ Fun fact: Idk, honestly, my life ain't that exciting, but I'm trying to change that with code!
+- ⚡ Fun fact: Idk, honestly, my life ain't that exciting, but I'm trying to change that!
 
 ---
 
