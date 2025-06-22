@@ -2,11 +2,10 @@
 
 ## 🚀 What's Good?
 
-- 🎓 So, I'm actually on the grind studying Religious Education (yeah, not exactly a dev major, right? 😂).
+- 🎓 So, I'm actually a student of Religious Education (yeah, not exactly a dev major, right? 😂).
 - 🌱 But hey, I'm super hyped about coding, even though I'm still basically a noob!
 - 💡 Super into diving deep into new stuff I don't know yet (ambitious much? Maybe!).
-- 💬 Hit me up to chat about anything tech, maybe some Eminem lyrics, or just life stuff.
-- ⚡ Fun fact: Idk, honestly, my life ain't that exciting, but I'm trying to change that!
+- 💬 Hit me up to chat about anything tech, maybe some Hip-hop song, or just life stuff.
 
 ## 🌐 Slide Into My DMs
 
