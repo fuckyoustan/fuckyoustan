@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=ADD8E6&text=👋%20Yo%2C%20I'm%20Stan!&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Just%20a%20code%20rookie%20from%20Indonesia%20(yeah%2C%20Stan...%20like%20the%20Eminem%20song%2C%20lol!)&descAlignY=60&descAlign=50&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yo!%20I'm%20Stan%20👋&section=header&reversal=true&fontAlign=50&desc=Just%20a%20code%20rookie%20from%20Indonesia%20(yeah,%20Stan...%20like%20the%20Eminem%20song,%20lol!)&fontAlignY=40&descSize=23)
 
 ## 🚀 What's Good?
 
