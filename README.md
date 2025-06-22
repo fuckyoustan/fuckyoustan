@@ -8,8 +8,6 @@
 - 💬 Hit me up to chat about anything tech, maybe some Eminem lyrics, or just life stuff.
 - ⚡ Fun fact: Idk, honestly, my life ain't that exciting, but I'm trying to change that!
 
----
-
 ## 🌐 Slide Into My DMs
 
 Wanna connect? Catch me on these platforms:
@@ -18,8 +16,6 @@ Wanna connect? Catch me on these platforms:
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mpiiess)
 - [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuckyoustan)
 
----
-
 ## 🙏 Show Some Love
 
 Digging my journey or just wanna support a fellow code enthusiast? A little something would be clutch!
@@ -27,6 +23,3 @@ Digging my journey or just wanna support a fellow code enthusiast? A little some
 <a href="https://paypal.me/bogenk" target="_blank">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Me" />
 </a>
-
-
----
