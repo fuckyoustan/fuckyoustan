@@ -1,4 +1,8 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yo!%20I'm%20Stan%20👋&section=header&reversal=true&fontAlign=50&desc=Just%20a%20code%20rookie%20from%20Indonesia%20(yeah,%20Stan...%20like%20the%20Eminem%20song,%20lol!)&fontAlignY=40&descSize=23)
+<h1 align="center">Yo!, I'm Stan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+things+with+code.;Check+out+my+projects+below."/>
+</p>
 
 ## 🚀 What's Good?
 
@@ -7,7 +11,19 @@
 - 💡 Super into diving deep into new stuff I don't know yet (ambitious much? Maybe!).
 - 💬 Hit me up to chat about anything tech, maybe some Hip-hop song, or just life stuff.
 
-## 🌐 Slide Into My DMs
+### 🧠 My Coding Languages Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuckyoustan&layout=compact&theme=tokyonight" alt="Top Languages by fuckyoustan"/>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuckyoustan&show_icons=true&theme=tokyonight" alt="GitHub stats by fuckyoustan"/>
+</p>
+
+### 🔗 Let's Connect
 
 Wanna connect? Catch me on these platforms:
 
