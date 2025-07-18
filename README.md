@@ -1,7 +1,9 @@
-<h1 align="center">Yo!, I'm Stan 👋</h1>
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yo!%20I'm%20Stan%20👋&section=header&reversal=true&fontAlign=50&desc=Just%20a%20code%20rookie%20from%20Indonesia%20(yeah,%20Stan...%20like%20the%20Eminem%20song,%20lol!)&fontAlignY=40&descSize=23)
+
+<h1 align="center">WELCOME!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+cool+things+with+code.;Check+out+my+projects+below."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;I+build+cool+things+with+code;Coding+with+chaos+and+style;Check+out+my+projects+below;Glad+you're+here!"/>
 </p>
 
 ## 🚀 What's Good?
