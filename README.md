@@ -14,12 +14,9 @@ Wanna connect? Catch me on these platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/napiies_) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mpiiess)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuckyoustan) [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/02409751167646492790)
 
-## 🙏 Show Some Love
+## 💖 Show Some Love
 
 Digging my journey or just wanna support a fellow code enthusiast? A little something would be clutch!
-
-<a href="https://paypal.me/bogenk" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Me" />
-</a>
-
-[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-FFBB00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://sociabuzz.com/stan_/tribe)
+ 
+[![PayPal](https://img.shields.io/badge/SUPPORT-PAYPAL-0070ba?style=for-the-badge&logo=paypal&logoColor=blue)](https://paypal.me/bogenk)
+[![Sociabuzz](https://img.shields.io/badge/SUPPORT-SOCIABUZZ-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow)](https://sociabuzz.com/stan_/support)
