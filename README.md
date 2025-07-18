@@ -1,6 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yo!%20I'm%20Stan&desc=yeah%20stan,%20inspired%20by%20eminem%20song&fontAlign=50&fontSize=90&descSize=20&descAlignY=53&descAlign=59&fontAlignY=40)
 
-<h1 align="center">WELCOME</h1>
+
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yo!%20I'm%20Stan&desc=yeah%20stan,%20inspired%20by%20eminem%20song&fontAlign=50&fontSize=90&descSize=20&descAlignY=53&descAlign=59&fontAlignY=40)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;I+build+cool+things+with+code;Coding+with+chaos+and+style;Check+out+my+projects+below;Glad+you're+here!"/>
