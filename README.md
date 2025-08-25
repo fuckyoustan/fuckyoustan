@@ -22,5 +22,5 @@ Wanna connect? Catch me on these platforms:
 
 If you enjoy my work or find it useful, consider supporting me. A little something would be clutch!
   
-[![PayPal](https://img.shields.io/badge/SUPPORT-PAYPAL-0070ba?style=for-the-badge&logo=paypal&logoColor=blue)](https://paypal.me/bogenk)
-[![Sociabuzz](https://img.shields.io/badge/SUPPORT-SOCIABUZZ-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow)](https://sociabuzz.com/stan_/support)
+[![Saweria](https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=kofi&logoColor=black)](https://saweria.co/088216733546) [![GoPay](https://img.shields.io/badge/GoPay-00A8E0?style=for-the-badge&logo=googlepay&logoColor=white)](https://link.dana.id/minta/088216733546) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bogenk) [![OVO](https://img.shields.io/badge/OVO-4B0082?style=for-the-badge&logo=ovo&logoColor=white)](https://wa.me/6288216733546)
