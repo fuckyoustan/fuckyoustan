@@ -22,4 +22,4 @@ Wanna connect? Catch me on these platforms:
 
 If you enjoy my work or find it useful, consider supporting me. A little something would be clutch!
   
-[![Saweria](https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=kofi&logoColor=black)](https://saweria.co/fuckyoustan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bogenk) 
+[![Saweria](https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=kofi&logoColor=black)](https://saweria.co/fuckyoustan) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/fvckyoustan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bogenk) 
