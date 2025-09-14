@@ -1,3 +1,6 @@
+<div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
+
+
 ![Banner](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yo!%20I'm%20Stan&desc=yeah%20stan,%20inspired%20by%20eminem%20song&fontAlign=50&fontSize=90&descSize=20&descAlignY=53&descAlign=59&fontAlignY=40)
 
 <p align="center">
