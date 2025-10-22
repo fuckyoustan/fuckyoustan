@@ -14,9 +14,10 @@
 - 💡 Super into diving deep into new stuff I don't know yet (ambitious much? Maybe!).
 - 💬 Hit me up to chat about anything tech, maybe some Hip-hop song, or just life stuff.
 
-## 📊 My Programming Languages
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckyoustan&langs_count=10&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckyoustan&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=fuckyoustan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 🔗 Let's Connect
