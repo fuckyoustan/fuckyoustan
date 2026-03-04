@@ -16,16 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckyoustan&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=fuckyoustan&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔗 Let's Connect
-
-Wanna connect? Catch me on these platforms:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/napiies_) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mpiiess)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuckyoustan) [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/02409751167646492790)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fuckyoustan&theme=transparent" alt="GitHub Profile Details" />
 
 ## 💖 Show Some Love
 
